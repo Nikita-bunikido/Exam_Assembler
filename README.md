@@ -15,12 +15,12 @@
 - #### Шаг 1 - клонирование репозитория
 С помощью **git** :
 
-    git clone https://github.com/...
+    git clone https://github.com/Nikita-bunikido/Exam_Assembler.git
 
 - #### Шаг 2 - сборка программы
 Перейдите в директорию с примерами, и соберите с помощью **gnu make**:
 
-    git clone ..
+    cd Exam_Assembler
     make
 
 ### Отладчик
